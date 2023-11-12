@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50ce08f0-7f3d-4b79-9181-d8a3d17b272d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/models/DatosPrueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/questions/registrousuario/RegistroUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/comunes/AbrirUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/registrousuario/PasoCuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/registrousuario/PasoDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/registrousuario/PasoTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/registrousuario/PasoUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/registrousuario/RegistrarUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/registrousuario/RegistroUsuarioUserinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/util/transversal/CargarDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/util/transversal/Esperar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/registrousuario/RegistroUsuarioRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/registrousuario/RegistroUsuarioStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/registrousuario/registro_usuario.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50ce08f0-7f3d-4b79-9181-d8a3d17b272d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +21,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
